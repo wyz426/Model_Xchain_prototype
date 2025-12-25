@@ -1,4 +1,4 @@
-# SA-XChain_prototype
+# Model-XChain_prototype
 
 
 # Motivation  
